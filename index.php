@@ -3,9 +3,9 @@
 
     $obj = new IMC();
 
-    $obj->setNome("Felipe");
-    $obj->setPeso("90");
-    $obj->setAltura("1.75");
+    $obj->setNome("Roberto");
+    $obj->setPeso("86");
+    $obj->setAltura("1.79");
 
     $obj->setIMC();
 
